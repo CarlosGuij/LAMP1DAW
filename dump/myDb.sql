@@ -18,7 +18,7 @@ INSERT INTO `Person` (`id`, `name`) VALUES
 (1, 'Vicente'),
 (2, 'Marc'),
 (3, 'Carlos'),
-(4, 'Daniel');
+(4, 'Daniel'),
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
